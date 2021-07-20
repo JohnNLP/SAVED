@@ -9,5 +9,7 @@ TODO: What about Twitter's data policy?
 You'll need to download the PHEME dataset for starters.
 
 Step 1: Converting PHEME dataset to DISENTANGLEMENT input.
+
 Step 2: Running DISENTANGLEMENT.
+
 Step 3: Moving DISENTANGLEMENT output to LINEAR and running LINEAR for final results.
