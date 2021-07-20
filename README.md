@@ -1,6 +1,6 @@
 # SAVED
 
-Please note, there is still some housekeeping to be done to this uploaded code, which will be finalized in time for the conference paper to go live.
+This is a WIP version of the code, largely cleaned up, to be finalized at the time the conference paper is live.
 
 Much of the code for disentanglement comes from the work by
 > Jichuan Zeng, Jing Li, Yulan He, Cuiyun Gao, Michael Lyu, Irwin King. What You Say and How You Say it: Joint Modeling of Topics andDiscourse in Microblog Conversations. TACL 2019.
